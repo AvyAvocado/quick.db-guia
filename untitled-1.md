@@ -1,8 +1,8 @@
 ---
-description: Antes de instalar quick.db debes instalar ciertas dependencias.
+description: Todo lo necesario para instalar quick.db en tu proyecto
 ---
 
-# Requisitos
+# Instalación
 
 Para quick.db necesitarás:
 
@@ -38,6 +38,4 @@ Como cualquier otro package de npm, para instalar debes escribir esto en la ruta
 ```text
 npm install --save quick.db
 ```
-
-
 
