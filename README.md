@@ -1,4 +1,4 @@
-# quick.db-guia
+# Introducción
 
 En esta guia enseñaré a como instalar, agregar y utilizar quick.db en tu proyecto de Node.js.  
   

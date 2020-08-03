@@ -1,9 +1,6 @@
 # Table of contents
 
-* [quick.db-guia](README.md)
+* [Introducción](README.md)
+* [Requisitos](untitled-1.md)
 * [Untitled](untitled.md)
-
-## Empezemos
-
-* [Requisitos](empezemos/untitled.md)
 
