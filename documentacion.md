@@ -10,12 +10,12 @@ description: Los métodos disponibles en quick.db
 
 ### Métodos
 
-* .add\(key, number\) -&gt; 
-* .all\(\) -&gt; 
-* .delete\(key\) -&gt; 
-* .get\(key\) -&gt; 
-* .has\(key\) -&gt; 
-* .push\(key, element\) -&gt; 
-* .set\(key, data\) -&gt; 
-* .subtract\(key, number\) -&gt; 
+* .add\(key, number\) -&gt; Data
+* .all\(\) -&gt; Array
+* .delete\(key\) -&gt; Boolean
+* .get\(key\) -&gt; ?Data
+* .has\(key\) -&gt; Boolean
+* .push\(key, element\) -&gt; Data
+* .set\(key, data\) -&gt; Data
+* .subtract\(key, number\) -&gt; Data
 
