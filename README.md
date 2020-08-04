@@ -1,5 +1,5 @@
 ---
-description: Antes de empezar con quick.db
+description: Guía de quick.db en español
 ---
 
 # Introducción
